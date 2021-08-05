@@ -1,0 +1,4 @@
+------------------05-08-2021----------------------------------------------
+
+Inversion of control --> create and manage object
+dependency injection-----> inject object dependency
