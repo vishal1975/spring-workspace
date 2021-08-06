@@ -2,3 +2,13 @@
 
 Inversion of control --> create and manage object
 dependency injection-----> inject object dependency
+
+@Component(id)-> create a bean
+
+--> by default , bean is created only one time i.e it is singleton
+    we can also create bean as "prototype" to make multiple objects
+
+
+-----------------dependency injection by java annotations----------------------------
+
+-> spring by default match by ->type

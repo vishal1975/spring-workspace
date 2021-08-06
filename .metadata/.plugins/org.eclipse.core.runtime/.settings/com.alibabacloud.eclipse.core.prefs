@@ -1,0 +1,7 @@
+account_profile_list=default
+current_docker_preference={"type"\:"connection_type_tcp","uri"\:"http\://127.0.0.1\:2375","auth"\:false}
+default_account_profile=default
+default_region=cn-beijing
+eclipse.preferences.version=1
+is_not_first_start=true
+plugin_uid=bf455f3b-c999-4864-97b4-382943be9249
