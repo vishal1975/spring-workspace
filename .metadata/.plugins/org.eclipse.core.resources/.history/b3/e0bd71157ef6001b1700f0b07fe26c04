@@ -1,7 +1,0 @@
-package com.springLearning1.springLearning;
-
-public interface Coach {
-
-	public String getDailyWorkout();
-	
-}
