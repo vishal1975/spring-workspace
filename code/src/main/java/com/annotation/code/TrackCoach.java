@@ -7,9 +7,15 @@ import org.springframework.stereotype.Component;
 @Component
 public class TrackCoach implements Coach {
 
-    @Autowired
-    @Qualifier("badFortune")
+//    @Autowired
+//    @Qualifier("badFortune")
 	fortuneService temp;
+	@Autowired
+    @Qualifier("badFortune")
+	public void setTemp(fortuneService temp) {
+		this.temp = temp;
+	}
+
 	public String getDailyWorkout() {
 		return "Run a hard 5k";
 	}

@@ -12,3 +12,8 @@ dependency injection-----> inject object dependency
 -----------------dependency injection by java annotations----------------------------
 
 -> spring by default match by ->type
+
+
+--------------11-08-2021---------------------------------------------------------------
+-> spring mvc is a framework to build web application in java
+-> it is based on Model-View Controller design pattern
